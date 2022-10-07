@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -na
+=======
+ls-na
+>>>>>>> 57489b63cdd19f5cf307c3006e0380fc61d44255
